@@ -1,3 +1,0 @@
-/root/workspace/Gesture_Recognition_Opencv3/demo/build/CMakeFiles/edit_cache.dir
-/root/workspace/Gesture_Recognition_Opencv3/demo/build/CMakeFiles/rebuild_cache.dir
-/root/workspace/Gesture_Recognition_Opencv3/demo/build/CMakeFiles/demo.dir
