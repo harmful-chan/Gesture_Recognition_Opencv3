@@ -1,0 +1,3 @@
+/home/pi/ws/Gesture_Recognition_Opencv3/demo/bulid/CMakeFiles/rebuild_cache.dir
+/home/pi/ws/Gesture_Recognition_Opencv3/demo/bulid/CMakeFiles/edit_cache.dir
+/home/pi/ws/Gesture_Recognition_Opencv3/demo/bulid/CMakeFiles/demo.dir
